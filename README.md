@@ -14,11 +14,11 @@
 #### 📄 Know about my experiences:
 
 #### Sales Data Analysis of a Store with Python 
-    **(Python, Pandas, Matplotlib, TensorFlow)**
+    (Python, Pandas, Matplotlib, TensorFlow)
 - **Description:** Analyzed and visualized sales data from a store using Python. Developed amodel to identify purchasing patterns and seasonal trends, leading torecommendations based on purchasing data to improve the sales strategy.
 
 #### Inventory Management System
-    **(Java, SQLSERVER, JavaFX)**
+    (Java, SQLSERVER, JavaFX)
   - **Description:** Developed an inventory management system for managing and controlling product stock. Implemented functionalities for registering, editing, and deregistering products, as well as generating alerts for low stock.
 
 #### Freelance Web Developer
