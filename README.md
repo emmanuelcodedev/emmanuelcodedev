@@ -13,20 +13,17 @@
 
 #### 📄 Know about my experiences:
 
-#### Web Development Intern
-- **Description:** Collaborated with a team to develop responsive web applications using Vue.js and Node.js. Implemented new features and conducted testing to ensure optimal functionality. Acquired hands-on experience in front-end and back-end development practices.
-
-#### Data Analytics Project
-- **Sales Data Analysis of a Store with Python 
-    (Python, Pandas, Matplotlib, TensorFlow)
+#### Sales Data Analysis of a Store with Python 
+- (Python, Pandas, Matplotlib, TensorFlow)
 - **Description:** Analyzed and visualized sales data from a store using Python. Developed amodel to identify purchasing patterns and seasonal trends, leading torecommendations based on purchasing data to improve the sales strategy.
 
-#### Electronics & IoT Projects
-- **Arduino Uno Robotics Project**
-  - **Description:** Designing and programming robotics projects using Arduino Uno. Developing algorithms for sensor integration and motor control.
+#### Inventory Management System
+- **(Java, SQLSERVER, JavaFX)**
+  - **Description:** Developed an inventory management system for managing and controlling product stock. Implemented functionalities for registering, editing, and deregistering products, as well as generating alerts for low stock.
 
-#### Freelance Web Development
-- **Description:** Working independently on various web development projects for clients. Providing solutions tailored to their needs, including front-end design and back-end functionality.
+#### Freelance Web Developer
+-(HTML, CSS, JavaScript)
+- **Description:** Developed and maintained a website for a local small business using HTML, CSS, and JavaScript. Optimized the website's performance and collaborated with clients to meet their requirements.
 
 
 <h3 align="left">Connect with me:</h3>
