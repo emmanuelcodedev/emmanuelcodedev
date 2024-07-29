@@ -33,19 +33,13 @@ Description:Developed and maintained a website for a local small business using 
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/tu-perfil" target="_blank" aria-label="LinkedIn">
-            <i class="fab fa-linkedin"></i>
-        </a>
-        <a href="https://www.instagram.com/tu-perfil" target="_blank" aria-label="Instagram">
-            <i class="fab fa-instagram"></i>
-        </a>
-        <a href="mailto:tu-correo@example.com" aria-label="Correo electrónico">
-            <i class="fas fa-envelope"></i>
-        </a>
-        <a href="tel:+1234567890" aria-label="Teléfono">
-            <i class="fas fa-phone"></i>
-        </a>
-        
+<p align="left">
+<a href="https://linkedin.com/in/emmanuel alvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel alvarez" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/emmanuel_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="emmanuel_19" height="30" width="40" /></a>
+<a href="https://kaggle.com/eac19039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eac19039" height="30" width="40" /></a>
+<a href="https://instagram.com/emmanuel_alvarez_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_alvarez_10" height="30" width="40" /></a>
+</p>
+
 <p align="left">
   <!-- Sistemas Operativos -->
   <h2>Operating System</h2>
