@@ -16,17 +16,17 @@
 ### Data Science
 **Sales Data Analysis of a Store with Python**  
 *(Java, SQLSERVER, JavaFX)*  
-**Description:** Analyzed and visualized sales data from a store using Python. Developed a model to identify purchasing patterns and seasonal trends, leading to recommendations based on purchasing data to improve the sales strategy.
+-Description:** Analyzed and visualized sales data from a store using Python. Developed a model to identify purchasing patterns and seasonal trends, leading to recommendations based on purchasing data to improve the sales strategy.
 
 ### Developer Software
 **Inventory Management System**  
 *(Java, SQLSERVER, JavaFX)*  
-**Description:** Developed an inventory management system for managing and controlling product stock. Implemented functionalities for registering, editing, and deregistering products, as well as generating alerts for low stock.
+-Description:** Developed an inventory management system for managing and controlling product stock. Implemented functionalities for registering, editing, and deregistering products, as well as generating alerts for low stock.
 
 ### Web Developer
 **Freelance Web Developer**  
 *(HTML, CSS, JavaScript)*  
-**Description:** Developed and maintained a website for a local small business using HTML, CSS, and JavaScript. Optimized the website's performance and collaborated with clients to meet their requirements.
+-Description:** Developed and maintained a website for a local small business using HTML, CSS, and JavaScript. Optimized the website's performance and collaborated with clients to meet their requirements.
 
 
 <h3 align="left">Connect with me:</h3>
