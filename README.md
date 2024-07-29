@@ -14,8 +14,8 @@
 #### 📄 Know about my experiences:
 
 #### Data Science
-Sales Data Analysis of a Store with Python
-(Java, SQLSERVER, JavaFX)
+##Sales Data Analysis of a Store with Python
+##(Java, SQLSERVER, JavaFX)
 - **Description:** Analyzed and visualized sales data from a store using Python. Developed amodel to identify purchasing patterns and seasonal trends, leading torecommendations based on purchasing data to improve the sales strategy.
 
 #### Inventory Management System
