@@ -33,6 +33,19 @@ Description:Developed and maintained a website for a local small business using 
 
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/tu-perfil" target="_blank" aria-label="LinkedIn">
+            <i class="fab fa-linkedin"></i>
+        </a>
+        <a href="https://www.instagram.com/tu-perfil" target="_blank" aria-label="Instagram">
+            <i class="fab fa-instagram"></i>
+        </a>
+        <a href="mailto:tu-correo@example.com" aria-label="Correo electrónico">
+            <i class="fas fa-envelope"></i>
+        </a>
+        <a href="tel:+1234567890" aria-label="Teléfono">
+            <i class="fas fa-phone"></i>
+        </a>
+        
 <p align="left">
   <!-- Sistemas Operativos -->
   <h2>Operating System</h2>
