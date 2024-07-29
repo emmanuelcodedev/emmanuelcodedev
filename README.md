@@ -17,8 +17,9 @@
 - **Description:** Collaborated with a team to develop responsive web applications using Vue.js and Node.js. Implemented new features and conducted testing to ensure optimal functionality. Acquired hands-on experience in front-end and back-end development practices.
 
 #### Data Analytics Project
-- **Project:** Market Analysis Tool
-- **Description:** Led a project analyzing market trends using Python and data visualization libraries. Extracted, cleaned, and visualized data to provide actionable insights, contributing to informed business decisions.
+- **Sales Data Analysis of a Store with Python 
+    (Python, Pandas, Matplotlib, TensorFlow)
+- **Description:** Analyzed and visualized sales data from a store using Python. Developed amodel to identify purchasing patterns and seasonal trends, leading torecommendations based on purchasing data to improve the sales strategy.
 
 #### Electronics & IoT Projects
 - **Arduino Uno Robotics Project**
