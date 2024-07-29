@@ -1,15 +1,3 @@
-
-<h2>Connect with me</h2>
-<p align="left">
-  <a href="https://linkedin.com/in/emmanuel alvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel alvarez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/emmanuel_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="emmanuel_19" height="30" width="40" /></a>
-<a href="https://kaggle.com/eac19039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eac19039" height="30" width="40" /></a>
-<a href="https://instagram.com/emmanuel_alvarez_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_alvarez_10" height="30" width="40" /></a>
-</p>
-
-  
-
-
 <h1 align="center">Hi 👋, I'm Emmanuel Alvarez Cañedo</h1>
 <h3 align="center">A passionate web developer and data analytics enthusiast from Mexico</h3>
 
@@ -136,6 +124,14 @@ Description:Developed and maintained a website for a local small business using 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
+</p>
+
+<h2>Connect with me</h2>
+<p align="left">
+  <a href="https://linkedin.com/in/emmanuel alvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel alvarez" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/emmanuel_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="emmanuel_19" height="30" width="40" /></a>
+<a href="https://kaggle.com/eac19039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eac19039" height="30" width="40" /></a>
+<a href="https://instagram.com/emmanuel_alvarez_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_alvarez_10" height="30" width="40" /></a>
 </p>
 
 #
