@@ -21,12 +21,14 @@
 ### Developer Software
 **Inventory Management System**  
 *(Java, SQLSERVER, JavaFX)*  
--Description:** Developed an inventory management system for managing and controlling product stock. Implemented functionalities for registering, editing, and deregistering products, as well as generating alerts for low stock.
+
+Description:** Developed an inventory management system for managing and controlling product stock. Implemented functionalities for registering, editing, and deregistering products, as well as generating alerts for low stock.
 
 ### Web Developer
 **Freelance Web Developer**  
-*(HTML, CSS, JavaScript)*  
--Description:** Developed and maintained a website for a local small business using HTML, CSS, and JavaScript. Optimized the website's performance and collaborated with clients to meet their requirements.
+*(HTML, CSS, JavaScript)* 
+
+Description:** Developed and maintained a website for a local small business using HTML, CSS, and JavaScript. Optimized the website's performance and collaborated with clients to meet their requirements.
 
 
 <h3 align="left">Connect with me:</h3>
