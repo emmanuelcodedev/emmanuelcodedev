@@ -37,7 +37,7 @@
   </a>
   
   <!-- Lenguajes de Programación -->
-  <h2>Lenguajes de Programación</h2>
+  <h2>Programming Language</h2>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
@@ -58,7 +58,7 @@
   </a>
   
   <!-- Frameworks y Librerías -->
-  <h2>Frameworks y Librerías</h2>
+  <h2>Frameworks</h2>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a> 
@@ -85,7 +85,7 @@
   </a>
   
   <!-- Herramientas de Desarrollo -->
-  <h2>Herramientas de Desarrollo</h2>
+  <h2>Daeveloper Tools</h2>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
@@ -97,7 +97,7 @@
   </a>
   
   <!-- Machine Learning y Data Science -->
-  <h2>Machine Learning y Data Science</h2>
+  <h2>Machine Learning and Data Science</h2>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
@@ -112,7 +112,7 @@
   </a> 
 
   <!-- Gestores de Bases de Datos -->
-  <h2>Gestores de Bases de Datos</h2>
+  <h2>Database Manager</h2>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> 
