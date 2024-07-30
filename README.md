@@ -132,7 +132,9 @@ Description:Developed and maintained a website for a local small business using 
 <a href="mailto:tu_email@gmail.com" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
 </a>
-<a href="https://kaggle.com/eac19039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eac19039" height="30" width="40" /></a>
+<a href="tel:+1234567890" target="blank">
+  <img align="center" src="https://img.icons8.com/fluent/48/000000/phone.png" alt="Teléfono" height="30" width="40" />
+</a>
 <a href="https://instagram.com/emmanuel_alvarez_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_alvarez_10" height="30" width="40" /></a>
 </p>
 
