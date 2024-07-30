@@ -128,13 +128,9 @@ Description:Developed and maintained a website for a local small business using 
 <h2>Connect with me</h2>
 <p align="left">
   <a href="https://linkedin.com/in/emmanuel alvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel alvarez" height="30" width="40" /></a>
-<a href="tel:+1234567890" target="blank">
-  <img align="center" src="https://img.icons8.com/fluent/48/000000/phone.png" alt="Teléfono" height="30" width="40" />
-</a>
 <a href="mailto:tu_email@gmail.com" target="blank">
   <img align="center" src="https://img.icons8.com/fluent/48/000000/email.png" alt="Correo" height="30" width="40" />
 </a>
-
 <a href="tel:+1234567890" target="blank">
   <img align="center" src="https://img.icons8.com/fluent/48/000000/phone.png" alt="Teléfono" height="30" width="40" />
 </a>
