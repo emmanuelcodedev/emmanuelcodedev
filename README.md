@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [loading...](loading...)
 
-- 💬 Ask me about **emmanuelcodedevArtificial Intelligence Engineer with experience in Web Development and Data Science. Passionate abouttechnology and solving complex**
+- 💬 Ask me about **emmanuelcodedevArtificial Intelligence Engineer with experience in Web Development and Data Science. Passionate abouttechnology and solving complex problems**
 
 - 📫 How to reach me **emmanuel.alvarez.dev@gmail.com**
 
