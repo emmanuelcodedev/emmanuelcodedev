@@ -138,6 +138,6 @@ Description:Developed and maintained a website for a local small business using 
   </a>
 </p>
 
-**📞** Phone Number: **+525534224988** (copy manually if not on a mobile device)
+**📞** Phone Number: **<u>+525534224988</u>** (copy manually if not on a mobile device)
 
 #
