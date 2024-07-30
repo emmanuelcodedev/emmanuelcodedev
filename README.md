@@ -127,7 +127,7 @@ Description:Developed and maintained a website for a local small business using 
 </p>
 <h2>Connect with me</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/emmanuel-alvarez" target="_blank" rel="noreferrer">
+  <a href="www.linkedin.com/in/emmanuel-alvarez-cañedo-640bb02a7" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel alvarez" height="30" width="40" />
   </a>
   <a href="mailto:emmanuel.alvarez.dev@gmail.com" target="_blank" rel="noreferrer">
@@ -136,7 +136,7 @@ Description:Developed and maintained a website for a local small business using 
   <a href="tel:+525534224988" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.icons8.com/fluent/48/000000/phone.png" alt="Teléfono" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/emmanuel_alvarez_10" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/emmanuel_alvarez_19/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_alvarez_10" height="30" width="40" />
   </a>
 </p>
