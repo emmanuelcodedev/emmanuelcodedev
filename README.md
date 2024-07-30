@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelcodedev&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelcodedev" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,Java,Python,C,Vue.js,,Node.js,Django**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,Java,Python,C,Vue.js,,Node.js y Django**
 
 - 👨‍💻 All of my projects are available at [loading...](loading...)
 
