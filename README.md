@@ -112,6 +112,9 @@ Description: Developed and maintained a website for a local small business using
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
+</a>
 
   <!-- Gestores de Bases de Datos -->
   <h2>Database Manager</h2>
