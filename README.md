@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelcodedev&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelcodedev" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,JAVA,PYTHON,Typescript,C++,C#,Vue.js,Reac,node.js,django**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,JAVA,PYTHON,C,Vue.js,,node.js,django**
 
 - 👨‍💻 All of my projects are available at [loading...](loading...)
 
-- 💬 Ask me about **Proficient in Arduino for hardware development using boards like Arduino Uno, ESP32, and Raspberry Pi.**
+- 💬 Ask me about **emmanuelcodedevArtificial Intelligence Engineer with experience in WebDevelopment and Data Science. Passionate abouttechnology and solving complex**
 
 - 📫 How to reach me **emmanuel.alvarez.dev@gmail.com**
 
@@ -138,7 +138,7 @@ Description:Developed and maintained a website for a local small business using 
   </a>
 </p>
 
-**📞** Phone Number: **<span style="text-decoration: underline;">+525534224988</span>** (copy manually if not on a mobile device)
+**📞** Phone Number:  [**+525534224988**](**+525534224988**) (copy manually if not on a mobile device)
 
 
 #
