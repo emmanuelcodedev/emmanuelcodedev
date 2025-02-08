@@ -14,17 +14,16 @@
 #### 📄 Know about my experiences:
 
 ### Data Science
-- **Sales Data Analysis of a Store with Python**  
-*(Java, SQLSERVER, JavaFX)*  
-
-Description: Analyzed and visualized sales data from a store using Python. Developed a model to identify purchasing patterns and seasonal trends, leading to recommendations based on purchasing data to improve the sales strategy.
-
-### Developer Software
-- **VISUALIZATION INTERFACES TO DISPLAY AND ANALYZE SALES TRENDS**  
+- **VISUALIZATION INTERFACES TO DISPLAY AND ANALYZE SALES TRENDS (FINAL PROJECT)**  
 *(JAVA, SPRINGBOOT, ANGULAR)*  
 
 Description: Analyze and addressed the challenge of creating an efficient system to visualize and monitor sales performance by following Interactive dashboards were designed to visualize key sales trends, enabling users to easily monitor performance and uncover valuable insights. With a focus on scalability and performance, the system was deployed in a production environment, ensuring the application could efficiently manage growing data volumes over time.
 
+### Developer Software
+- **MANAGEMENT OF THE EDUCATIONAL FIGURE FOR CONAFE-WEB**  
+*(PYTHON, DJANGO, BOOTSTRAP, DOCKER)*  
+
+Description: Throughout the project, the guideline manuals for the requirement gathering were taken into account, always with intention of delivering software that provide value. With respect to this project was implemented MySQL for storage and management data and implemented synchronization via an API (REST) for mobile Synchronization. Deploy the web app in a Docker container for production.
 
 ### Big Data
 - **DEVELOPMENT OF A DATA-DRIVEN DECISION SUPPORT SYSTEM**  
