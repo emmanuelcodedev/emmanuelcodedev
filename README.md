@@ -146,10 +146,6 @@ Description: Designed and implemented an efficient system for visualizing and mo
   </a>
   <a href="mailto:emmanuel.alvarez.dev@gmail.com" target="_blank" rel="noreferrer">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Correo" height="40" width="40" />
-</a>
-
-  <a href="tel:+525534224988" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://img.icons8.com/fluent/48/000000/phone.png" alt="Teléfono" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/emmanuel_alvarez_19/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_alvarez_10" height="30" width="40" />
@@ -157,6 +153,4 @@ Description: Designed and implemented an efficient system for visualizing and mo
 </p>
 
 **📞** Phone Number:  [**+525534224988**](**+525534224988**) (copy manually if not on a mobile device)
-
-
 #
