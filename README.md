@@ -145,8 +145,9 @@ Description: Designed and implemented an efficient system for visualizing and mo
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel alvarez" height="30" width="40" />
   </a>
   <a href="mailto:emmanuel.alvarez.dev@gmail.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://camo.githubusercontent.com/58573fa637d6567a525d26420a06ad773d13ef24c54b31ef7f5ee2f4b32913a4/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f656d61696c2e706e67" alt="Correo" height="30" width="40" />
-  </a>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Correo" height="40" width="40" />
+</a>
+
   <a href="tel:+525534224988" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.icons8.com/fluent/48/000000/phone.png" alt="Teléfono" height="30" width="40" />
   </a>
