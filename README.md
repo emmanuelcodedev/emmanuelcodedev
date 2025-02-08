@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Final semester AI Engineering student, that adapts easily to vanguard technologies, with analytical capacity for problem-solving. Focused on delivering value through customized designs and solutions, understanding the core business question**
 
-- 📫 How to reach me **emmanuel.alvarez.dev@gmail.com and +525534224988**
+- 📫 How to reach me **emmanuel.alvarez.dev@gmail.com and [**+525534224988**](**+525534224988**)**
 
 #### 📄 Know about my experiences:
 
