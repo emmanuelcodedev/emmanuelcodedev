@@ -23,7 +23,7 @@ Description: Analyzed and visualized sales data from a store using Python. Devel
 - **VISUALIZATION INTERFACES TO DISPLAY AND ANALYZE SALES TRENDS**  
 *(JAVA, SPRINGBOOT, ANGULAR)*  
 
-Analyze and addressed the challenge of creating an efficient system to visualize and monitor sales performance by following Interactive dashboards were designed to visualize key sales trends, enabling users to easily monitor performance and uncover valuable insights. With a focus on scalability and performance, the system was deployed in a production environment, ensuring the application could efficiently manage growing data volumes over time.
+Description: Analyze and addressed the challenge of creating an efficient system to visualize and monitor sales performance by following Interactive dashboards were designed to visualize key sales trends, enabling users to easily monitor performance and uncover valuable insights. With a focus on scalability and performance, the system was deployed in a production environment, ensuring the application could efficiently manage growing data volumes over time.
 
 
 ### Big Data
