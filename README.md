@@ -114,6 +114,12 @@ Description: Designed and implemented an efficient system for visualizing and mo
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
+  </a>
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> 
+  </a>
 
   <h2>Big Data</h2>
   <a href="https://spark.apache.org" target="_blank" rel="noreferrer"> 
