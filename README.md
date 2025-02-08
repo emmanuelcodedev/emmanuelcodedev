@@ -89,8 +89,7 @@ Description: Designed and implemented an efficient system for visualizing and mo
   </a> 
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg
-" alt="SpringBoot" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="SpringBoot" width="40" height="40"/> 
   </a> 
   
   
