@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelcodedev&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelcodedev" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,Java,Python,C,Vue.js,,Node.js y Django**
+- 🌱 I’m currently learning **BIG DATA: SPARK, HADOOP Focused in methodology CRISP-DM**
 
-- 👨‍💻 All of my projects are available at [loading...](loading...)
+- 👨‍💻 My most relevant projects: From projects such as Management of the educational figure to a more data-related project, these were Visualization Interfaces to facility analyze sales. For these projects, both front-end and back-end frameworks such as vue.js and angular.js were used for the front-end, technologies such as Django, Spring and Node were used for the back-end and relational databases such as MySQL, SQL Server and PostgresSQL were implemented for data management and storage and [loading...](loading...)
 
-- 💬 Ask me about **Final semester AI Engineering student, that adapts easily to vanguard technologies, with analytical capacity for problem-solving.
-  Focused on delivering value through customized designs and solutions, understanding the core business question**
+- 💬 Ask me about **Final semester AI Engineering student, that adapts easily to vanguard technologies, with analytical capacity for problem-solving. Focused on delivering value through customized designs and solutions, understanding the core business question**
 
 - 📫 How to reach me **emmanuel.alvarez.dev@gmail.com**
 
