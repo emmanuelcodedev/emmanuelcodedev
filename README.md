@@ -20,16 +20,18 @@
 Description: Analyzed and visualized sales data from a store using Python. Developed a model to identify purchasing patterns and seasonal trends, leading to recommendations based on purchasing data to improve the sales strategy.
 
 ### Developer Software
-- **Inventory Management System**  
-*(Java, SQLSERVER, JavaFX)*  
+- **VISUALIZATION INTERFACES TO DISPLAY AND ANALYZE SALES TRENDS**  
+*(JAVA, SPRINGBOOT, ANGULAR)*  
 
-Description: Developed an inventory management system for managing and controlling product stock. Implemented functionalities for registering, editing, and deregistering products, as well as generating alerts for low stock.
+Analyze and addressed the challenge of creating an efficient system to visualize and monitor sales performance by following Interactive dashboards were designed to visualize key sales trends, enabling users to easily monitor performance and uncover valuable insights. With a focus on scalability and performance, the system was deployed in a production environment, ensuring the application could efficiently manage growing data volumes over time.
 
-### Web Developer
-- **Freelance Web Developer**  
-*(HTML, CSS, JavaScript)* 
 
-Description: Developed and maintained a website for a local small business using HTML, CSS, and JavaScript. Optimized the website's performance and collaborated with clients to meet their requirements.
+### Big Data
+- **DEVELOPMENT OF A DATA-DRIVEN DECISION SUPPORT SYSTEM**  
+*(PYTHON, SPARK, CRISP-DM)* 
+
+Description: Designed and implemented an efficient system for visualizing and monitoring sales performance using the CRISP-DM methodology. Data processing was handled using Python, while analytics were powered by Apache Spark. Developed interactive dashboards to provide actionable insights, enabling data-driven decision-making. Ensured scalability and performance optimization through efficient data pipelines and visualization techniques.
+
 
 
 
