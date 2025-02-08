@@ -7,7 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [loading...](loading...)
 
-- 💬 Ask me about **Final semester AI Engineering student, that adapts easily to vanguard technologies, with analytical capacity for problem￾solving. Focused on delivering value through customized designs and solutions, understanding the core business question**
+- 💬 Ask me about **Final semester AI Engineering student, that adapts easily to vanguard technologies, with analytical capacity for problem-solving.
+  Focused on delivering value through customized designs and solutions, understanding the core business question**
 
 - 📫 How to reach me **emmanuel.alvarez.dev@gmail.com**
 
