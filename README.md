@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **BIG DATA: SPARK, HADOOP Focused in methodology CRISP-DM**
 
-- 👨‍💻 My most relevant projects: From projects such as Management of the educational figure to a more data-related project, these were Visualization Interfaces to facility analyze sales. For these projects, both front-end and back-end frameworks such as vue.js and angular.js were used for the front-end, technologies such as Django, Spring and Node were used for the back-end and relational databases such as MySQL, SQL Server and PostgresSQL were implemented for data management and storage and [loading...](loading...)
+- 👨‍💻 My most relevant projects: From projects such as Management of the educational figure to a more data-related project, these were Visualization Interfaces to facility analyze sales. For these projects, both front-end and back-end frameworks such as vue.js and angular.js were used for the front-end, technologies such as Django, Spring and Node were used for the back-end and relational databases such as MySQL, SQL Server and PostgresSQL were implemented for data management and storage
 
 - 💬 Ask me about **Final semester AI Engineering student, that adapts easily to vanguard technologies, with analytical capacity for problem-solving. Focused on delivering value through customized designs and solutions, understanding the core business question**
 
