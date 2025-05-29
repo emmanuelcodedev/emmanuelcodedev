@@ -9,11 +9,15 @@
 
 -💬 Ask me about: Final semester AI Engineering student, that adapts easily to vanguard technologies, with analytical capacity for problem-solving. Focused on delivering value through customized designs and solutions, understanding the core business question
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dawnfox)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=emmanuelcodedev&theme=dawnfox" alt="GitHub Streak"/>
+  </a>
+</div>
 
 -📫 How to reach me **✉️ emmanuel.alvarez.dev@gmail.com and 📞 [**+525534224988**](**+525534224988**)**
 
-### Skils techniques
+# Skills techniques
 
 <p align="left">
   <!-- Sistemas Operativos -->
@@ -121,18 +125,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="40" height="40"/> 
   </a>
 </p>
-<h2>Connect with me</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/emmanuel-alvarez-ca%C3%B1edo-640bb02a7/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel alvarez" height="30" width="40" />
-  </a>
-  <a href="mailto:emmanuel.alvarez.dev@gmail.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Correo" height="40" width="40" />
-  </a>
-  <a href="https://www.instagram.com/emmanuel_alvarez_19/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_alvarez_10" height="30" width="40" />
-  </a>
-</p>
 
 # Soft skills
 
@@ -157,5 +149,17 @@ Description: Analyze and addressed the challenge of creating an efficient system
 
 Description: Designed and implemented an efficient system for visualizing and monitoring sales performance using the CRISP-DM methodology. Data processing was handled using Python, while analytics were powered by Apache Spark. Developed interactive dashboards to provide actionable insights, enabling data-driven decision-making. Ensured scalability and performance optimization through efficient data pipelines and visualization techniques.
 
-**📞** Phone Number:  [**+525534224988**](**+525534224988**) (copy manually if not on a mobile device)
-#
+
+<h2>Connect with me</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/emmanuel-alvarez-ca%C3%B1edo-640bb02a7/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel alvarez" height="30" width="40" />
+  </a>
+  <a href="mailto:emmanuel.alvarez.dev@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Correo" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/emmanuel_alvarez_19/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_alvarez_10" height="30" width="40" />
+  </a>
+</p>
+📞 Phone Number: [**+525534224988**](**+525534224988**)** (copy manually if not on a mobile device)
