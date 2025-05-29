@@ -3,38 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelcodedev&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelcodedev" /> </p>
 
-- 🌱 I’m currently learning **BIG DATA: SPARK, HADOOP Focused in methodology CRISP-DM**
+-🌱 I’m currently learning **BIG DATA: SPARK, HADOOP Focused in methodology CRISP-DM**
 
-- 👨‍💻 My most relevant projects: From projects such as Management of the educational figure to a more data-related project, these were Visualization Interfaces to facility analyze sales. For these projects, both front-end and back-end frameworks such as vue.js and angular.js were used for the front-end, technologies such as Django, Spring and Node were used for the back-end and relational databases such as MySQL, SQL Server and PostgresSQL were implemented for data management and storage
+-👨‍💻 My most relevant projects: From projects such as Management of the educational figure to a more data-related project, these were Visualization Interfaces to facility analyze sales. For these projects, both front-end and back-end frameworks such as vue.js and angular.js were used for the front-end, technologies such as Django, Spring and Node were used for the back-end and relational databases such as MySQL, SQL Server and PostgresSQL were implemented for data management and storage
 
-- 💬 Ask me about **Final semester AI Engineering student, that adapts easily to vanguard technologies, with analytical capacity for problem-solving. Focused on delivering value through customized designs and solutions, understanding the core business question**
+-💬 Ask me about: Final semester AI Engineering student, that adapts easily to vanguard technologies, with analytical capacity for problem-solving. Focused on delivering value through customized designs and solutions, understanding the core business question
 
-- 📫 How to reach me **✉️ emmanuel.alvarez.dev@gmail.com and 📞 [**+525534224988**](**+525534224988**)**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dawnfox)](https://git.io/streak-stats)
 
-#### 📄 Know about my experiences:
-### Developer Software
-- **MANAGEMENT OF THE EDUCATIONAL FIGURE FOR CONAFE-WEB**  
-*(PYTHON, DJANGO, BOOTSTRAP, DOCKER)*  
+-📫 How to reach me **✉️ emmanuel.alvarez.dev@gmail.com and 📞 [**+525534224988**](**+525534224988**)**
 
-Description: Throughout the project, the guideline manuals for the requirement gathering were taken into account, always with intention of delivering software that provide value. With respect to this project was implemented MySQL for storage and management data and implemented synchronization via an API (REST) for mobile Synchronization. Deploy the web app in a Docker container for production.
-
-
-### Data Science
-- **VISUALIZATION INTERFACES TO DISPLAY AND ANALYZE SALES TRENDS (FINAL PROJECT)**  
-*(JAVA, SPRINGBOOT, ANGULAR)*  
-
-Description: Analyze and addressed the challenge of creating an efficient system to visualize and monitor sales performance by following Interactive dashboards were designed to visualize key sales trends, enabling users to easily monitor performance and uncover valuable insights. With a focus on scalability and performance, the system was deployed in a production environment, ensuring the application could efficiently manage growing data volumes over time.
-
-
-### Big Data
-- **DEVELOPMENT OF A DATA-DRIVEN DECISION SUPPORT SYSTEM**  
-*(PYTHON, SPARK, CRISP-DM)* 
-
-Description: Designed and implemented an efficient system for visualizing and monitoring sales performance using the CRISP-DM methodology. Data processing was handled using Python, while analytics were powered by Apache Spark. Developed interactive dashboards to provide actionable insights, enabling data-driven decision-making. Ensured scalability and performance optimization through efficient data pipelines and visualization techniques.
-
-
-
-
+### Skils techniques
 
 <p align="left">
   <!-- Sistemas Operativos -->
@@ -154,6 +133,29 @@ Description: Designed and implemented an efficient system for visualizing and mo
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_alvarez_10" height="30" width="40" />
   </a>
 </p>
+
+# Soft skills
+
+# 📄My experience
+### Developer Software
+- **MANAGEMENT OF THE EDUCATIONAL FIGURE FOR CONAFE-WEB**  
+*(PYTHON, DJANGO, BOOTSTRAP, DOCKER)*  
+
+Description: Throughout the project, the guideline manuals for the requirement gathering were taken into account, always with intention of delivering software that provide value. With respect to this project was implemented MySQL for storage and management data and implemented synchronization via an API (REST) for mobile Synchronization. Deploy the web app in a Docker container for production.
+
+
+### Data Science
+- **VISUALIZATION INTERFACES TO DISPLAY AND ANALYZE SALES TRENDS (FINAL PROJECT)**  
+*(JAVA, SPRINGBOOT, ANGULAR)*  
+
+Description: Analyze and addressed the challenge of creating an efficient system to visualize and monitor sales performance by following Interactive dashboards were designed to visualize key sales trends, enabling users to easily monitor performance and uncover valuable insights. With a focus on scalability and performance, the system was deployed in a production environment, ensuring the application could efficiently manage growing data volumes over time.
+
+
+### Big Data
+- **DEVELOPMENT OF A DATA-DRIVEN DECISION SUPPORT SYSTEM**  
+*(PYTHON, SPARK, CRISP-DM)* 
+
+Description: Designed and implemented an efficient system for visualizing and monitoring sales performance using the CRISP-DM methodology. Data processing was handled using Python, while analytics were powered by Apache Spark. Developed interactive dashboards to provide actionable insights, enabling data-driven decision-making. Ensured scalability and performance optimization through efficient data pipelines and visualization techniques.
 
 **📞** Phone Number:  [**+525534224988**](**+525534224988**) (copy manually if not on a mobile device)
 #
