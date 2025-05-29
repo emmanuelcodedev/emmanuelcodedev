@@ -17,7 +17,7 @@
 
 -📫 How to reach me **✉️ emmanuel.alvarez.dev@gmail.com and 📞 [**+525534224988**](**+525534224988**)**
 
-# Skills techniques
+# Technics Skills
 
 <p align="left">
   <!-- Sistemas Operativos -->
@@ -162,4 +162,4 @@ Description: Designed and implemented an efficient system for visualizing and mo
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_alvarez_10" height="30" width="40" />
   </a>
 </p>
-📞 Phone Number: [**+525534224988**](**+525534224988**)** (copy manually if not on a mobile device)
+📞 Phone Number: +525534224988 (copy manually if not on a mobile device)
