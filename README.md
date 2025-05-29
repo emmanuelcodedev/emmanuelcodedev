@@ -17,7 +17,7 @@
 
 -📫 How to reach me **✉️ emmanuel.alvarez.dev@gmail.com and 📞 [**+525534224988**](**+525534224988**)**
 
-# Technics Skills
+# 🛠️Technics Skills
 
 <p align="left">
   <!-- Sistemas Operativos -->
@@ -65,7 +65,7 @@
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
   </a>
 
-  <h2>Back-end</h2>
+  <h2>Frameworks Back-end</h2>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a>
@@ -100,7 +100,6 @@
       <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21~bgwhite.svg" alt="spark" width="40" height="40"/> 
   </a>
   
-    <!-- Herramientas de Desarrollo -->
   <h2>Developer Tools</h2>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -110,8 +109,15 @@
   </a>
 </p>
 
-# Soft skills
-
+# 🧠Soft skills
+- 🧩 **Critical Thinking** – Not everything is about code. Sometimes, the smartest move is to question the entire approach and rethink from scratch.
+- 🛠️ **Problem Solving** – Whether it’s a nasty bug, a bottleneck, or a vague client request, staying cool-headed and solution-focused is key.
+- 🔄 **Adaptability** – Backend? Sure. AI? Let’s go. New tech on the rise? No fear. The mindset is: evolve or evaporate.
+- 🗣️ **Effective Communication** – Explaining complex tech in human terms, and translating fuzzy business ideas into solid systems.
+- 🤝 **Teamwork** – Knowing when to lead, when to follow, and when to just listen.
+- 🔍 **Curiosity-Driven Mindset** – "It works" is not enough. Always asking why, how, what if, and what's next.
+- 🧗 **Resilience** – Mistakes aren’t setbacks—they’re stepping stones. Fall down seven times, stand up with a cleaner commit message.
+  
 # 📄My experience
 ### Developer Software
 - **MANAGEMENT OF THE EDUCATIONAL FIGURE FOR CONAFE-WEB**  
