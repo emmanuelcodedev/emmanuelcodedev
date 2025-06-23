@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Alvarez Cañedo</h1>
 <h3 align="center">Smart Systems Architect | Turning Data into Smart Business Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelcodedev&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelcodedev" /> </p>
+
 
 -🌱 I’m currently learning **BIG DATA: SPARK, HADOOP Focused in methodology CRISP-DM**
 
