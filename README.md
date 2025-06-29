@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelcodedev&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelcodedev" /> </p>
 
-[Portofolio](https://portfolio-web-i94i.vercel.app/).
+[Portfolio Web](https://portfolio-web-i94i.vercel.app/).
 
 -🌱 I’m currently learning **BIG DATA: SPARK, HADOOP Focused in methodology CRISP-DM**
 
